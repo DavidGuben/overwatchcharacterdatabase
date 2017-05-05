@@ -1,7 +1,7 @@
 const athletes = [
   {
     id: 'driulis-gonzalez',
-    name: 'Driulis González',
+    name: 'Tracer',
     country: {
       id: 'cu',
       name: 'Cuba',
@@ -32,7 +32,7 @@ const athletes = [
   },
   {
     id: 'mark-huizinga',
-    name: 'Mark Huizinga',
+    name: 'Widowmaker',
     country: {
       id: 'nl',
       name: 'Netherlands',
@@ -63,7 +63,7 @@ const athletes = [
   },
   {
     id: 'rishod-sobirov',
-    name: 'Rishod Sobirov',
+    name: 'Hanzo',
     country: {
       id: 'uz',
       name: 'Uzbekistan',
@@ -85,7 +85,7 @@ const athletes = [
   },
   {
     id: 'ryoko-tani',
-    name: 'Ryoko Tani',
+    name: 'D.Va',
     country: {
       id: 'jp',
       name: 'Japan',
@@ -116,7 +116,7 @@ const athletes = [
   },
   {
     id: 'teddy-riner',
-    name: 'Teddy Riner',
+    name: 'Sombra',
     country: {
       id: 'fr',
       name: 'France',
