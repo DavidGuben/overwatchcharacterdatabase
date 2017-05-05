@@ -8,9 +8,9 @@ const athletes = [
       icon: 'flag-cu.png',
     },
     birth: '1973',
-    image: 'driulis-gonzalez.jpg',
-    cover: 'driulis-gonzalez-cover.jpg',
-    link: 'https://en.wikipedia.org/wiki/Driulis_González',
+    image: 'tracer-profile-pic.png',
+    cover: 'tracer-overlay.jpg',
+    link: '',
     medals: [
       { id: 1, year: '1992', type: 'B', city: 'Barcelona', event: 'Olympic Games', category: '-57kg' },
       { id: 2, year: '1993', type: 'B', city: 'Hamilton', event: 'World Championships', category: '-57kg' },
