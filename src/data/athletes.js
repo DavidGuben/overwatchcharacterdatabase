@@ -162,7 +162,7 @@ const athletes = [
         icon: '',
       },
       birth: '',
-      image: '',
+      image: 'dva-profile.jpg',
       cover: 'overwatch-cover02.jpg',
       link: '',
       medals: [],
