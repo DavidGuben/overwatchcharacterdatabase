@@ -307,9 +307,6 @@ const athletes = [
       link: '',
       medals: [],
     },
-
-
-
 ];
 
 export default athletes;
