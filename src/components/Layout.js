@@ -5,7 +5,7 @@ export const Layout = props => (
   <div className="app-container">
     <header>
       <Link to="/">
-        <img className="logo" src="" alt="Overwatch Logo" />
+        <img className="logo" src="/../../static/img/overwatch-logo-img.png" alt="Overwatch Logo" />
       </Link>
     </header>
     <div className="app-content">{props.children}</div>
