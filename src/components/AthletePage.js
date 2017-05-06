@@ -23,10 +23,10 @@ export const AthletePage = ({ athlete, athletes }) => {
         <section className="medals">
 
         </section>
-        
+
       </div>
       <div className="navigateBack">
-        <Link to="/">« Back to the index</Link>
+        <Link to="/">« Back to character selection</Link>
       </div>
     </div>
   );
