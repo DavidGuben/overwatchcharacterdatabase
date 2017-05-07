@@ -7,7 +7,7 @@ export const AthletePreview = props => (
       <img src={`img/${props.image}`} alt={`${props.name}'s profile`} />
       <h2 className="name">{props.name}</h2>
       <span className="medals-count">
-        <img src="/img/medal.png" alt="Medal icon" /> {props.medals.length}
+        <img src="/img/offense-icon.png" alt="Offense icon" width="25px" height="18px" />
       </span>
     </div>
   </Link>
